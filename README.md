@@ -1,5 +1,3 @@
-Elbette Sahip. Aşağıda, **yalnızca stok takip backend projen** için özel olarak hazırlanmış, profesyonel düzeyde, özgün ve detaylı bir `README.md` içeriği sunuyorum. Bu içerik, gerçek bir **Senior Full Stack Java Developer** eliyle hazırlanmış gibi tüm detaylarıyla sunulmuştur.
-
 # 🏷️ SmartWorkflow Stok Takip Backend
 
 Java 17 ve Spring Boot tabanlı olarak geliştirilen bu backend uygulaması, kurumların malzeme, demirbaş ve depo hareket süreçlerini dijitalleştirerek izlenebilir, denetlenebilir ve genişletilebilir bir altyapı sunar. Katmanlı mimari, RESTful servisler, DTO kullanımı ve transactional servis mantığıyla modern ve sürdürülebilir bir yapı hedeflenmiştir.
